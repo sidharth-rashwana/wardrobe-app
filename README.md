@@ -4,7 +4,7 @@ UI Design: [Wardrobe App Design Concept (Community)](https://www.figma.com/file/
 
 **Overview**
 
-This project focuses on the design of a Wardrobe App.
+This project focuses on the implementation of a Wardrobe App.
 
 **Technology Stack**
 
