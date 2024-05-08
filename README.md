@@ -14,7 +14,7 @@ Backend: Flask, Python, MongoDB, Redis, Docker, Kubernetes, AWS
 
 To deploy the project with Docker, follow these steps:
 
-1. Set up the required .env parameters.
+1. Set up the required `.env` parameters.
 
 2. Ensure Docker is installed on your system.
 
